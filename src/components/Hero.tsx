@@ -30,11 +30,11 @@ const Hero = () => {
           className="flex flex-col sm:flex-row gap-4 justify-center"
         >
           <Button className="bg-white text-black hover:bg-gray-200 text-base sm:text-lg px-6 sm:px-8 py-4 sm:py-6">
-            Start Free Trial
+            Shop
             <ArrowRight className="ml-2" />
           </Button>
           <Button variant="outline" className="text-base sm:text-lg px-6 sm:px-8 py-4 sm:py-6">
-            Watch Demo
+            List
           </Button>
         </motion.div>
       </div>
